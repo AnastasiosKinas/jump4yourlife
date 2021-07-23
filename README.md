@@ -1,5 +1,8 @@
 # Jump4yourlife
 
+![demo1](https://raw.githubusercontent.com/AnastasiosKinas/jump4yourlife/master/screenshots/1.png)
+![demo2](https://raw.githubusercontent.com/AnastasiosKinas/jump4yourlife/master/screenshots/2.png)
+
 This game is implemented with Python 3 using PyGame library.
   
 # Installation
